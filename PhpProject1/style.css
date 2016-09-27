@@ -1,0 +1,157 @@
+a {  text-decoration:none }
+
+body { width:100%; height:auto  }  
+
+h1, h2, h3, h4, h5, h6  {
+
+color:#666;
+text-transform:uppercase;
+line-height: 20px;
+font-family: "Oswald", "Times New Roman", Helvetica, Arial, sans-serif;
+text-rendering: optimizeSpeed;
+}
+
+.student_view { font-family: "Oswald", "Times New Roman", Helvetica, Arial, sans-serif;font-size:19px; margin-bottom: 40px;
+margin-right: 50px; height:auto;      }
+
+.add_new_student { margin-top:140px;  }
+
+.student_view ul {   }
+.student_view ul li {  list-style:none;  }
+.edit_delete { margin-left:10px; margin-left:34px    } 
+.home_header ul li { list-style:none; display:inline-block;  margin-top:45px; padding-left:10px;
+padding-right:38px; font-family: "Oswald", "Times New Roman", Helvetica, Arial, sans-serif; font-size:32px    }
+
+.home_header1 { 
+margin:0 auto;
+width:100%;
+ margin-top: 225px;
+margin-bottom: 45px;
+color:#414B74;
+font-size: 40px;  }
+
+.header1 { margin-top:20px; 
+margin-left:25%; 
+padding:10px;
+background:#FFF;
+box-shadow:1px 1px 3px 1px #888888;
+  }
+
+.header2 {
+ margin-top:20px;
+ margin-right:25%;
+ box-shadow:1px 1px 3px 1px #888888; 
+ padding:10px 
+  }
+
+textarea { width:100%; height:151px; margin-top:10px    }
+
+
+input#searchid {
+padding: 8px;
+width: 168px;
+}
+
+#site-searchform #searchsubmit {
+
+width: 50px;
+height: 38px;
+cursor: pointer;
+text-indent: -5555em;
+line-height: 100;
+overflow: hidden;
+background: #0097E6 url(search2.png) no-repeat center 9px;
+border: 0;
+}
+
+#site-searchform #searchsubmit:hover {
+	
+	background:#666 url(search2.png) no-repeat center 9px;
+	
+}
+
+textarea,
+input[type="text"],
+input[type="submit"],
+input[type="reset"],
+input[type="password"],
+input[type="color"],
+.uneditable-input {
+  display: inline-block;
+  padding:7px 10px;
+  font-size:16px;
+  color: #555555;
+  vertical-align: middle;
+  -o-border-radius:4px;
+    -webkit-border-radius: 4px;
+     -moz-border-radius: 4px;
+          border-radius: 4px;
+}
+
+ input[type=text]:focus,input[type="submit"]:focus,
+input[type="reset"]:focus,input[type=password]:focus, textarea:focus, input[type=email]:focus {
+		
+		border:1px solid  #C8C8C8;
+	}
+	
+input[type=text]:focus, input[type=password]:focus, input[type="submit"]:focus,
+input[type="reset"]:focus, textarea:focus, input[type=email]:focus {
+		
+		border:1px solid  #C8C8C8;
+	}	
+
+textarea,
+input[type="text"],
+input[type="submit"],
+input[type="reset"],
+input[type="password"],
+input[type="color"],
+.uneditable-input {
+	color:#818181;
+  background-color: #ffffff;
+  border: 1px solid #cccccc;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+     -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  -webkit-transition: border linear 0.2s, box-shadow linear 0.2s;
+     -moz-transition: border linear 0.2s, box-shadow linear 0.2s;
+       -o-transition: border linear 0.2s, box-shadow linear 0.2s;
+          transition: border linear 0.2s, box-shadow linear 0.2s;
+}
+
+textarea:focus,
+input[type="text"]:focus,
+input[type="color"]:focus,
+.uneditable-input:focus {
+  border-color:#AFB7BE;
+  outline: 0;
+  outline: thin dotted \9;
+  /* IE6-9 */
+   
+}
+
+
+input[type="submit"],
+input[type="reset"] { background-color:#3189B9; color:#FFF      }
+
+
+td {
+font-size: 24px;
+font-family: "Oswald", "Times New Roman", Helvetica, Arial, sans-serif;
+}
+.btn {
+width:95px;
+margin-top: 18px;
+height:38px;
+background: #149CE4;
+cursor: pointer;
+color: #FFF;
+font-family: 'OpenSansRegular', Arial, sans-serif;
+text-transform: uppercase;
+border-radius:5px;
+-webkit-border-radius:5px;
+-moz-border-radius: 5px;
+-o-border-radius: 5px;
+}
+
+.submitbutton {  margin-left:20px; }

@@ -1,0 +1,54 @@
+@font-face {
+	font-family: 'AngillaTattooPersonalUse';
+	src: url('fonts/angillatattoopersonaluseonly.eot');
+	src: url('fonts/angillatattoopersonaluseonly.eot@#iefix') format('embedded-opentype'),
+			 url('fonts/angillatattoopersonaluseonly.woff') format('woff'),
+			 url('fonts/angillatattoopersonaluseonly.ttf') format('truetype'),
+			 url('fonts/angillatattoopersonaluseonly.svg#angillatattoopersonaluseonly') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'BebasRegular';
+    src: url('fonts/BEBAS-webfont.eot');
+    src: url('fonts/BEBAS-webfont.eot@#iefix') format('embedded-opentype'),
+         url('fonts/BEBAS-webfont.woff') format('woff'),
+         url('fonts/BEBAS-webfont.ttf') format('truetype'),
+         url('fonts/BEBAS-webfont.svg#BebasRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'OpenSansRegular';
+    src: url('fonts/OpenSans-Regular-webfont.eot');
+    src: url('fonts/OpenSans-Regular-webfont.eot@#iefix') format('embedded-opentype'),
+         url('fonts/OpenSans-Regular-webfont.woff') format('woff'),
+         url('fonts/OpenSans-Regular-webfont.ttf') format('truetype'),
+         url('fonts/OpenSans-Regular-webfont.svg#OpenSansRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Oswald Light'), local('Oswald-Light'), url(fonts/Oswald_300.woff) format('woff');
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Oswald Regular'), local('Oswald-Regular'), url(fonts/Oswald_400.woff)  format('woff');
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 700;
+  src:local('Oswald Bold'), local('Oswald-Bold'), url(fonts/Oswald_700.woff) format('woff');;
+}
+
